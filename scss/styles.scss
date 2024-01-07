@@ -1,4 +1,5 @@
 /*!
+
     Description: This file contains all the styles associated with the page
     that don't come from third party libraries. This file gets compiled using
     Gulp and send to the /css folder which is then loaded on the page.
@@ -343,7 +344,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/Profile.jpeg);
+    background: url(../images/Profile.jpg);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
